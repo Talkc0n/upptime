@@ -22,10 +22,12 @@ sites:
     url: https://api.mimihentai.com
     expectedStatusCodes:
       - 404
+      - 403
   - name: MimiHentai - CDN Server
     url: https://cdn.mimihentai.com
     expectedStatusCodes:
       - 400
+      - 403
 
 status-website:
   cname: draken.wibu.life
