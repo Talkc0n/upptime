@@ -4,9 +4,9 @@ repo: upptime
 sites:
   - name: Yuri Garden - Homepage
     url: https://yurigarden.com
-  - name: Yuri Garden - R18 page
+  - name: Yuri Garden - R18 Page
     url: https://yurigarden.com/r18
-  - name: Yuri Garden - API endpoint
+  - name: Yuri Garden - API Endpoint
     url: https://api.yurigarden.com/index.html
   - name: Yuri Garden - DB
     url: https://db.yurigarden.com/storage/v1/object/public/yuri-garden-store/comics/33/thumbnail.jfif?v=1
@@ -18,6 +18,14 @@ sites:
       - 403
   - name: MimiHentai
     url: https://mimihentai.com/blocked
+  - name: MimiHentai - API Endpoint
+    url: https://api.mimihentai.com
+    expectedStatusCodes:
+      - 404
+  - name: MimiHentai - CDN Server
+    url: https://cdn.mimihentai.com
+    expectedStatusCodes:
+      - 400
 
 status-website:
   cname: draken.wibu.life
