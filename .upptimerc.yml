@@ -16,6 +16,8 @@ sites:
     url: https://vi-hentai.moe
     expectedStatusCodes:
       - 403
+  - name: MimiHentai
+    url: https://mimihentai.com/blocked
 
 status-website:
   cname: draken.wibu.life
