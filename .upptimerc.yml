@@ -4,8 +4,16 @@ repo: upptime
 sites:
   - name: Yuri Garden
     url: https://yurigarden.com
+  - name: Yuri Garden - API endpoint
+    url: https://api.yurigarden.com/index.html
+  - name: Yuri Garden - DB
+    url: https://db.yurigarden.com/storage/v1/object/public/yuri-garden-store/comics/33/thumbnail.jfif?v=1
+  - name: Yuri Garden - Uploader
+    url: https://uploader.yurigarden.com/index.html
   - name: KuroNeko - Việt Hentai
     url: https://vi-hentai.moe
+    expectedStatusCodes:
+      - 403
 
 status-website:
   cname: draken.wibu.life
