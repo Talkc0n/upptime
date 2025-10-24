@@ -2,8 +2,10 @@ owner: Talkc0n
 repo: upptime
 
 sites:
-  - name: Yuri Garden
+  - name: Yuri Garden - Homepage
     url: https://yurigarden.com
+  - name: Yuri Garden - R18 page
+    url: https://yurigarden.com/r18
   - name: Yuri Garden - API endpoint
     url: https://api.yurigarden.com/index.html
   - name: Yuri Garden - DB
