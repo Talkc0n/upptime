@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 203,
     "timeDay": 152,
-    "timeWeek": 203,
+    "timeWeek": 190,
     "timeMonth": 203,
     "timeYear": 203,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 53,
     "timeDay": 45,
-    "timeWeek": 53,
+    "timeWeek": 51,
     "timeMonth": 53,
     "timeYear": 53,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 937,
     "timeDay": 907,
-    "timeWeek": 937,
+    "timeWeek": 915,
     "timeMonth": 937,
     "timeYear": 937,
     "dailyMinutesDown": {}
@@ -58,18 +58,20 @@
     "url": "https://db.yurigarden.com/storage/v1/object/public/yuri-garden-store/comics/33/thumbnail.jfif?v=1",
     "icon": "https://icons.duckduckgo.com/ip3/db.yurigarden.com.ico",
     "slug": "yuri-garden-db",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2098,
-    "timeDay": 1642,
-    "timeWeek": 2098,
-    "timeMonth": 2098,
-    "timeYear": 2098,
-    "dailyMinutesDown": {}
+    "time": 2018,
+    "timeDay": 1333,
+    "timeWeek": 1805,
+    "timeMonth": 2018,
+    "timeYear": 2018,
+    "dailyMinutesDown": {
+      "2025-10-31": 0
+    }
   },
   {
     "name": "Yuri Garden - Uploader",
@@ -84,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 1073,
     "timeDay": 875,
-    "timeWeek": 1073,
+    "timeWeek": 1042,
     "timeMonth": 1073,
     "timeYear": 1073,
     "dailyMinutesDown": {}
@@ -95,14 +97,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/vi-hentai.moe.ico",
     "slug": "kuro-neko-viet-hentai",
     "status": "up",
-    "uptime": "99.52%",
+    "uptime": "99.58%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.52%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
     "time": 248,
     "timeDay": 87,
-    "timeWeek": 248,
+    "timeWeek": 210,
     "timeMonth": 248,
     "timeYear": 248,
     "dailyMinutesDown": {
@@ -122,7 +124,7 @@
     "uptimeYear": "100.00%",
     "time": 168,
     "timeDay": 161,
-    "timeWeek": 168,
+    "timeWeek": 144,
     "timeMonth": 168,
     "timeYear": 168,
     "dailyMinutesDown": {}
@@ -140,7 +142,7 @@
     "uptimeYear": "100.00%",
     "time": 160,
     "timeDay": 148,
-    "timeWeek": 160,
+    "timeWeek": 149,
     "timeMonth": 160,
     "timeYear": 160,
     "dailyMinutesDown": {}
@@ -158,7 +160,7 @@
     "uptimeYear": "100.00%",
     "time": 157,
     "timeDay": 188,
-    "timeWeek": 157,
+    "timeWeek": 162,
     "timeMonth": 157,
     "timeYear": 157,
     "dailyMinutesDown": {}
