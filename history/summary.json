@@ -58,19 +58,19 @@
     "url": "https://db.yurigarden.com/storage/v1/object/public/yuri-garden-store/comics/33/thumbnail.jfif?v=1",
     "icon": "https://icons.duckduckgo.com/ip3/db.yurigarden.com.ico",
     "slug": "yuri-garden-db",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1867,
-    "timeDay": 1431,
-    "timeWeek": 1639,
-    "timeMonth": 1867,
-    "timeYear": 1867,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1874,
+    "timeDay": 1617,
+    "timeWeek": 1669,
+    "timeMonth": 1874,
+    "timeYear": 1874,
     "dailyMinutesDown": {
-      "2025-11-08": 0
+      "2025-11-08": 15
     }
   },
   {
