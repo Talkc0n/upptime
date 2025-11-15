@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 201,
-    "timeDay": 199,
-    "timeWeek": 207,
+    "timeDay": 220,
+    "timeWeek": 215,
     "timeMonth": 201,
     "timeYear": 201,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 56,
-    "timeDay": 42,
+    "time": 55,
+    "timeDay": 39,
     "timeWeek": 48,
-    "timeMonth": 56,
-    "timeYear": 56,
+    "timeMonth": 55,
+    "timeYear": 55,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 921,
-    "timeDay": 895,
-    "timeWeek": 930,
-    "timeMonth": 921,
-    "timeYear": 921,
+    "time": 930,
+    "timeDay": 1167,
+    "timeWeek": 979,
+    "timeMonth": 930,
+    "timeYear": 930,
     "dailyMinutesDown": {}
   },
   {
@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/db.yurigarden.com.ico",
     "slug": "yuri-garden-db",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 1862,
-    "timeDay": 1588,
-    "timeWeek": 1861,
-    "timeMonth": 1862,
-    "timeYear": 1862,
-    "dailyMinutesDown": {
-      "2025-11-14": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1876,
+    "timeDay": 1868,
+    "timeWeek": 1900,
+    "timeMonth": 1876,
+    "timeYear": 1876,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Yuri Garden - Uploader",
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1034,
-    "timeDay": 832,
-    "timeWeek": 1041,
-    "timeMonth": 1034,
-    "timeYear": 1034,
+    "time": 1036,
+    "timeDay": 1083,
+    "timeWeek": 1068,
+    "timeMonth": 1036,
+    "timeYear": 1036,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
-    "time": 254,
-    "timeDay": 89,
-    "timeWeek": 293,
-    "timeMonth": 254,
-    "timeYear": 254,
+    "time": 261,
+    "timeDay": 460,
+    "timeWeek": 344,
+    "timeMonth": 261,
+    "timeYear": 261,
     "dailyMinutesDown": {
       "2025-10-24": 44
     }
@@ -122,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 162,
-    "timeDay": 92,
-    "timeWeek": 161,
-    "timeMonth": 162,
-    "timeYear": 162,
+    "time": 161,
+    "timeDay": 132,
+    "timeWeek": 163,
+    "timeMonth": 161,
+    "timeYear": 161,
     "dailyMinutesDown": {}
   },
   {
@@ -140,11 +138,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 153,
+    "time": 151,
     "timeDay": 101,
-    "timeWeek": 143,
-    "timeMonth": 153,
-    "timeYear": 153,
+    "timeWeek": 145,
+    "timeMonth": 151,
+    "timeYear": 151,
     "dailyMinutesDown": {}
   },
   {
@@ -158,11 +156,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 146,
-    "timeDay": 151,
-    "timeWeek": 150,
-    "timeMonth": 146,
-    "timeYear": 146,
+    "time": 144,
+    "timeDay": 106,
+    "timeWeek": 151,
+    "timeMonth": 144,
+    "timeYear": 144,
     "dailyMinutesDown": {}
   }
 ]
