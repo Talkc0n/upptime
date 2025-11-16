@@ -40,19 +40,19 @@
     "url": "https://api.yurigarden.com/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/api.yurigarden.com.ico",
     "slug": "yuri-garden-api-endpoint",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 940,
-    "timeDay": 1220,
-    "timeWeek": 1005,
-    "timeMonth": 940,
-    "timeYear": 940,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 918,
+    "timeDay": 755,
+    "timeWeek": 916,
+    "timeMonth": 918,
+    "timeYear": 918,
     "dailyMinutesDown": {
-      "2025-11-16": 2
+      "2025-11-16": 7
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://uploader.yurigarden.com/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/uploader.yurigarden.com.ico",
     "slug": "yuri-garden-uploader",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1038,
-    "timeDay": 1115,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1040,
+    "timeDay": 1100,
     "timeWeek": 1087,
-    "timeMonth": 1038,
-    "timeYear": 1038,
+    "timeMonth": 1040,
+    "timeYear": 1040,
     "dailyMinutesDown": {
-      "2025-11-16": 0
+      "2025-11-16": 5
     }
   },
   {
