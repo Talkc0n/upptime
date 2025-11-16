@@ -40,18 +40,20 @@
     "url": "https://api.yurigarden.com/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/api.yurigarden.com.ico",
     "slug": "yuri-garden-api-endpoint",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 940,
     "timeDay": 1220,
     "timeWeek": 1005,
     "timeMonth": 940,
     "timeYear": 940,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-16": 2
+    }
   },
   {
     "name": "Yuri Garden - DB",
@@ -76,9 +78,9 @@
     "url": "https://uploader.yurigarden.com/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/uploader.yurigarden.com.ico",
     "slug": "yuri-garden-uploader",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +89,9 @@
     "timeWeek": 1087,
     "timeMonth": 1038,
     "timeYear": 1038,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-16": 0
+    }
   },
   {
     "name": "KuroNeko - Việt Hentai",
