@@ -1,7 +1,7 @@
 url: https://db.yurigarden.com/storage/v1/object/public/yuri-garden-store/comics/33/thumbnail.jfif?v=1
-status: up
-code: 200
-responseTime: 2560
-lastUpdated: 2025-11-16T23:07:45.888Z
+status: down
+code: 521
+responseTime: 351
+lastUpdated: 2025-11-17T22:31:48.022Z
 startTime: 2025-10-24T16:17:29.317Z
 generator: Upptime <https://github.com/upptime/upptime>
