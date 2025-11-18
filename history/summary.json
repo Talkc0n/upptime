@@ -84,19 +84,19 @@
     "url": "https://uploader.yurigarden.com/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/uploader.yurigarden.com.ico",
     "slug": "yuri-garden-uploader",
-    "status": "down",
-    "uptime": "99.34%",
-    "uptimeDay": "83.56%",
-    "uptimeWeek": "97.65%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.34%",
-    "time": 1107,
-    "timeDay": 1445,
-    "timeWeek": 1250,
-    "timeMonth": 1107,
-    "timeYear": 1107,
+    "status": "up",
+    "uptime": "99.30%",
+    "uptimeDay": "82.57%",
+    "uptimeWeek": "97.51%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.30%",
+    "time": 1108,
+    "timeDay": 1400,
+    "timeWeek": 1242,
+    "timeMonth": 1108,
+    "timeYear": 1108,
     "dailyMinutesDown": {
-      "2025-11-18": 237
+      "2025-11-18": 251
     }
   },
   {
