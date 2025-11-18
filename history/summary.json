@@ -4,71 +4,77 @@
     "url": "https://yurigarden.com",
     "icon": "https://icons.duckduckgo.com/ip3/yurigarden.com.ico",
     "slug": "yuri-garden-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 254,
-    "timeWeek": 209,
+    "timeDay": 230,
+    "timeWeek": 208,
     "timeMonth": 203,
     "timeYear": 203,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Yuri Garden - R18 Page",
     "url": "https://yurigarden.com/r18",
     "icon": "https://icons.duckduckgo.com/ip3/yurigarden.com.ico",
     "slug": "yuri-garden-r18-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 54,
-    "timeDay": 56,
-    "timeWeek": 46,
-    "timeMonth": 54,
-    "timeYear": 54,
-    "dailyMinutesDown": {}
+    "time": 53,
+    "timeDay": 42,
+    "timeWeek": 44,
+    "timeMonth": 53,
+    "timeYear": 53,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Yuri Garden - API Endpoint",
     "url": "https://api.yurigarden.com/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/api.yurigarden.com.ico",
     "slug": "yuri-garden-api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 933,
-    "timeDay": 1143,
-    "timeWeek": 929,
-    "timeMonth": 933,
-    "timeYear": 933,
-    "dailyMinutesDown": {}
+    "time": 910,
+    "timeDay": 655,
+    "timeWeek": 844,
+    "timeMonth": 910,
+    "timeYear": 910,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Yuri Garden - DB",
     "url": "https://db.yurigarden.com/storage/v1/object/public/yuri-garden-store/comics/33/thumbnail.jfif?v=1",
     "icon": "https://icons.duckduckgo.com/ip3/db.yurigarden.com.ico",
     "slug": "yuri-garden-db",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "96.72%",
+    "uptimeDay": "96.70%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 1955,
-    "timeDay": 2601,
-    "timeWeek": 2117,
-    "timeMonth": 1955,
-    "timeYear": 1955,
+    "time": 1928,
+    "timeDay": 2201,
+    "timeWeek": 2010,
+    "timeMonth": 1928,
+    "timeYear": 1928,
     "dailyMinutesDown": {
       "2025-11-18": 47
     }
@@ -78,17 +84,17 @@
     "url": "https://uploader.yurigarden.com/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/uploader.yurigarden.com.ico",
     "slug": "yuri-garden-uploader",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "95.71%",
+    "uptimeDay": "95.70%",
     "uptimeWeek": "99.39%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
-    "time": 1147,
-    "timeDay": 2233,
-    "timeWeek": 1428,
-    "timeMonth": 1147,
-    "timeYear": 1147,
+    "time": 1120,
+    "timeDay": 1725,
+    "timeWeek": 1317,
+    "timeMonth": 1120,
+    "timeYear": 1120,
     "dailyMinutesDown": {
       "2025-11-18": 62
     }
@@ -98,18 +104,19 @@
     "url": "https://vi-hentai.moe",
     "icon": "https://icons.duckduckgo.com/ip3/vi-hentai.moe.ico",
     "slug": "kuro-neko-viet-hentai",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
-    "time": 252,
-    "timeDay": 310,
-    "timeWeek": 260,
-    "timeMonth": 252,
-    "timeYear": 252,
+    "time": 248,
+    "timeDay": 200,
+    "timeWeek": 239,
+    "timeMonth": 248,
+    "timeYear": 248,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-10-24": 44
     }
   },
@@ -119,18 +126,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mimihentai.com.ico",
     "slug": "mimi-hentai",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 160,
     "timeDay": 135,
     "timeWeek": 140,
     "timeMonth": 160,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 8
     }
   },
   {
@@ -140,7 +147,7 @@
     "slug": "mimi-hentai-api-endpoint",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -149,7 +156,9 @@
     "timeWeek": 132,
     "timeMonth": 151,
     "timeYear": 151,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "MimiHentai - CDN Server",
