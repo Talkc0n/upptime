@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/yurigarden.com.ico",
     "slug": "yuri-garden-homepage",
     "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.70%",
-    "time": 204,
-    "timeDay": 173,
-    "timeWeek": 178,
-    "timeMonth": 202,
-    "timeYear": 204,
+    "uptime": "99.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.73%",
+    "time": 202,
+    "timeDay": 114,
+    "timeWeek": 168,
+    "timeMonth": 200,
+    "timeYear": 202,
     "dailyMinutesDown": {
-      "2025-11-27": 12,
       "2025-11-18": 132
     }
   },
@@ -26,18 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/yurigarden.com.ico",
     "slug": "yuri-garden-r18-page",
     "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.71%",
-    "time": 52,
-    "timeDay": 53,
-    "timeWeek": 46,
-    "timeMonth": 51,
-    "timeYear": 52,
+    "uptime": "99.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.73%",
+    "time": 51,
+    "timeDay": 42,
+    "timeWeek": 45,
+    "timeMonth": 50,
+    "timeYear": 51,
     "dailyMinutesDown": {
-      "2025-11-27": 11,
       "2025-11-18": 132
     }
   },
@@ -52,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
-    "time": 894,
-    "timeDay": 1088,
-    "timeWeek": 744,
-    "timeMonth": 870,
-    "timeYear": 894,
+    "time": 881,
+    "timeDay": 281,
+    "timeWeek": 616,
+    "timeMonth": 855,
+    "timeYear": 881,
     "dailyMinutesDown": {
       "2025-11-18": 35
     }
@@ -72,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.60%",
-    "time": 1873,
-    "timeDay": 1523,
-    "timeWeek": 1731,
-    "timeMonth": 1799,
-    "timeYear": 1873,
+    "time": 1872,
+    "timeDay": 1789,
+    "timeWeek": 1651,
+    "timeMonth": 1795,
+    "timeYear": 1872,
     "dailyMinutesDown": {
       "2025-11-18": 196
     }
@@ -92,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.52%",
-    "time": 1076,
-    "timeDay": 1020,
-    "timeWeek": 908,
-    "timeMonth": 1070,
-    "timeYear": 1076,
+    "time": 1071,
+    "timeDay": 804,
+    "timeWeek": 855,
+    "timeMonth": 1067,
+    "timeYear": 1071,
     "dailyMinutesDown": {
       "2025-11-18": 237
     }
@@ -112,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.64%",
-    "time": 265,
-    "timeDay": 341,
-    "timeWeek": 372,
-    "timeMonth": 269,
-    "timeYear": 265,
+    "time": 261,
+    "timeDay": 65,
+    "timeWeek": 344,
+    "timeMonth": 261,
+    "timeYear": 261,
     "dailyMinutesDown": {
       "2025-11-18": 132,
       "2025-10-24": 44
@@ -133,11 +131,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.63%",
-    "time": 160,
-    "timeDay": 194,
-    "timeWeek": 146,
+    "time": 158,
+    "timeDay": 116,
+    "timeWeek": 148,
     "timeMonth": 155,
-    "timeYear": 160,
+    "timeYear": 158,
     "dailyMinutesDown": {
       "2025-11-18": 183
     }
@@ -153,11 +151,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.73%",
-    "time": 154,
-    "timeDay": 140,
-    "timeWeek": 128,
-    "timeMonth": 154,
-    "timeYear": 154,
+    "time": 152,
+    "timeDay": 78,
+    "timeWeek": 115,
+    "timeMonth": 153,
+    "timeYear": 152,
     "dailyMinutesDown": {
       "2025-11-18": 132
     }
@@ -173,11 +171,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.71%",
-    "time": 141,
-    "timeDay": 176,
-    "timeWeek": 116,
-    "timeMonth": 145,
-    "timeYear": 141,
+    "time": 140,
+    "timeDay": 69,
+    "timeWeek": 99,
+    "timeMonth": 140,
+    "timeYear": 140,
     "dailyMinutesDown": {
       "2025-11-18": 142
     }
